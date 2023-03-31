@@ -1,0 +1,33 @@
+body{
+  background-color:lightsteelblue;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 300px;
+    cursor: pointer;
+    
+  }
+  img{
+    width: 30%;
+    height: 30%;
+  }
+  button{
+    background-color: rgba(255, 0, 0, 0.795);
+    color: white;
+    cursor: pointer;
+    border-radius: 50%;
+    margin: 12%;
+    float: center;
+    margin-bottom: 0%;
+
+  }
+  #contador{
+    display:contents;
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+    font-size: 30px;
+    
+  }
