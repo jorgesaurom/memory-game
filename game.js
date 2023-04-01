@@ -43,11 +43,11 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       {
         name: 'saxofon',
-        img:'imggame/saxofon.png'
+        img:'imggame/saxofon.jpg'
       },
       {
         name: 'saxofon',
-        img:'imggame/saxofon.png'
+        img:'imggame/saxofon.jpg'
       }
     ]
   
