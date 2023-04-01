@@ -98,8 +98,13 @@ document.addEventListener('DOMContentLoaded', () => {
       cardsChosenId = []
       resultDisplay.textContent = cardsWon.length
       if  (cardsWon.length === cardArray.length/2) {
-        resultDisplay.textContent = 'felicitaciones , terminaste  el juego'
+
+        location.reload()
+        alert("felicitaciones , terminaste  el juego");
+        
+       
       }
+      
     }
   
 
