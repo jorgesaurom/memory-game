@@ -139,7 +139,7 @@ function updateClock() {
   if(totalTime==0){
 
     location.reload()
-    alert("se acabo el tiempo, vuele a intentarlo");
+    alert("se acabo el tiempo, vuelve a intentarlo");
   }
 
   else{
